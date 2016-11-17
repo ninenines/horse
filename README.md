@@ -71,7 +71,7 @@ like this:
 -endif.
 ```
 
-All functions that begin with `horse_` will be ran as performance
+All functions that begin with `horse_` will be run as performance
 tests. You can put anything inside the function, measurements will
 be made for the whole call.
 
